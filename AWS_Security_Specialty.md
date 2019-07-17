@@ -1,7 +1,7 @@
 # **AWS Security Specialty Training**
 
 ## Domain 1 - Incident Response
-![alt text](C:\Users\G987291\Documents\Training\AWS\c4jt321.png "It's fine...")
+![alt text](https://github.com/danielvanheerden/danielvanheerden.github.io/blob/master/Its-Fine.png "It's fine...")
 ---
 ### Objectives
 1. Given an AWS abuse notice, evaluate the suspected compromised instance or exposed access keys.
