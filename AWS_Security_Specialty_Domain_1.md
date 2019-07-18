@@ -33,17 +33,11 @@
 	    - [ ] Hands-On Lab:  Enabling AWS VPC Flow Logs with Automation
 
 3. ACloudGuru [Chapter 10 - Incidence Response & AWS In The Real World](https://learn.acloud.guru/course/aws-certified-security-specialty/dashboard)
-	1. [ ] DDOS Overview
- 	2. [ ] WAF Integration
-	3. [ ] EC2 Has Been Hacked! What should you do?
-	4. [ ] I've Leaked My Keys On Github Accidentally
-	5. [ ] Reading CloudTrail Logs
-	6. [ ] Pen Testing - AWS Market Place
-	7. AWS Certificate Manager
-	8. Perfect Forward Secrecy and ALBs
-	9. API Gateway - Throttling & Caching
-	10. AWS Systems Manager Parameter Store
- 	11. AWS Systems Manager Run Command
-	12.	Compliance in AWS
-	13. Chapter 10 Summary
-	14. Incidence Response & AWS In The Real World Quiz
+	1. [ ] EC2 Has Been Hacked! What should you do?
+	2. [ ] I've Leaked My Keys On Github Accidentally
+	3. [ ] Reading CloudTrail Logs
+	4. [ ] Pen Testing - AWS Market Place
+	5. [ ] AWS Systems Manager Parameter Store
+ 	6. [ ] AWS Systems Manager Run Command
+	7. [ ] Chapter 10 Summary
+	8. [ ] Incidence Response & AWS In The Real World Quiz
