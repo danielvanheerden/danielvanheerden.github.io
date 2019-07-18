@@ -19,9 +19,9 @@
 
 2. LinuxAcademy [AWS Security Specialty](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-security-specialty)
     1.  Given an AWS Abuse Notice, Evaluate a Suspected Compromised Instance or Exposed Access Keys
-	    - AWS Abuse Notification
-	    - Responding to AWS Abuse Notifications
-	    - Hands-On Lab: Performing a Source Code Security Scan Using git-secrets in AWS
+	    - [ ] AWS Abuse Notification
+	    - [ ]Responding to AWS Abuse Notifications
+	    - [ ] Hands-On Lab: Performing a Source Code Security Scan Using git-secrets in AWS
     2.  Verify that the Incident Response plan includes relevant AWS services.
 	    - What is Incident Response?
 	    - Incident Response Framework: Part 1
