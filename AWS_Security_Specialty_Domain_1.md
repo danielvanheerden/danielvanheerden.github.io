@@ -20,25 +20,25 @@
 2. LinuxAcademy [AWS Security Specialty](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-security-specialty)
     1.  Given an AWS Abuse Notice, Evaluate a Suspected Compromised Instance or Exposed Access Keys
 	    - [ ] AWS Abuse Notification
-	    - [ ]Responding to AWS Abuse Notifications
+	    - [ ] Responding to AWS Abuse Notifications
 	    - [ ] Hands-On Lab: Performing a Source Code Security Scan Using git-secrets in AWS
     2.  Verify that the Incident Response plan includes relevant AWS services.
-	    - What is Incident Response?
-	    - Incident Response Framework: Part 1
-	    - Incident Response Framework: Part 2
+	    - [ ] What is Incident Response?
+	    - [ ] Incident Response Framework: Part 1
+	    - [ ] Incident Response Framework: Part 2
     3.  Evaluate the Configuration of Automated Alerting and Execute Possible Remediation of Security-Related Incidents and Emerging Issues
-	    - Automated Alerting
-	    - Automated Incident Response
-	    - CloudTrail Automation Example
-	    - Hands-On Lab:  Enabling AWS VPC Flow Logs with Automation
+	    - [ ] Automated Alerting
+	    - [ ] Automated Incident Response
+	    - [ ] CloudTrail Automation Example
+	    - [ ] Hands-On Lab:  Enabling AWS VPC Flow Logs with Automation
 
 3. ACloudGuru [Chapter 10 - Incidence Response & AWS In The Real World](https://learn.acloud.guru/course/aws-certified-security-specialty/dashboard)
-	1. DDOS Overview
- 	2. WAF Integration
-	3. EC2 Has Been Hacked! What should you do?
-	4. I've Leaked My Keys On Github Accidentally
-	5. Reading CloudTrail Logs
-	6. Pen Testing - AWS Market Place
+	1. [ ] DDOS Overview
+ 	2. [ ] WAF Integration
+	3. [ ] EC2 Has Been Hacked! What should you do?
+	4. [ ] I've Leaked My Keys On Github Accidentally
+	5. [ ] Reading CloudTrail Logs
+	6. [ ] Pen Testing - AWS Market Place
 	7. AWS Certificate Manager
 	8. Perfect Forward Secrecy and ALBs
 	9. API Gateway - Throttling & Caching
