@@ -37,7 +37,5 @@
 	2. [ ] I've Leaked My Keys On Github Accidentally
 	3. [ ] Reading CloudTrail Logs
 	4. [ ] Pen Testing - AWS Market Place
-	5. [ ] AWS Systems Manager Parameter Store
- 	6. [ ] AWS Systems Manager Run Command
-	7. [ ] Chapter 10 Summary
-	8. [ ] Incidence Response & AWS In The Real World Quiz
+	5. [ ] Chapter 10 Summary
+	6. [ ] Incidence Response & AWS In The Real World Quiz
